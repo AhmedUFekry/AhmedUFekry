@@ -7,8 +7,7 @@
           
           
           
-
-          
+<p>Check out the badge I earned for mastering a new skill! 🏅</p>
 ## <img src="https://images.credly.com/images/9b0ac7af-f7ac-4938-96a4-2d4805bfe23f/image.png" width ="50%">
 
 
