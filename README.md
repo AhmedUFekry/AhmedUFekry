@@ -9,7 +9,7 @@
           
 
           
-## <img src="https://images.credly.com/images/9b0ac7af-f7ac-4938-96a4-2d4805bfe23f/image.png" width ="3%"> Where to find me?
+## <img src="https://images.credly.com/images/9b0ac7af-f7ac-4938-96a4-2d4805bfe23f/image.png" width ="50%">
 
 
 ## <img src="https://media.giphy.com/media/8cY8LQMDLhQ4Ml9fLe/giphy.gif" width ="3%"> Where to find me?
