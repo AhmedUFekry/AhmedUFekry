@@ -9,7 +9,7 @@
           
 
           
-## <img src="[https://media.giphy.com/media/8cY8LQMDLhQ4Ml9fLe/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.credly.com%2Forg%2Fapple%2Fbadge%2Fapp-development-with-swift-certified-user&psig=AOvVaw1qj1JgwcCGNfO4GrUMqnWv&ust=1713811076496000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCW2d-U1IUDFQAAAAAdAAAAABAE)" width ="3%"> Where to find me?
+## <img src="https://images.credly.com/images/9b0ac7af-f7ac-4938-96a4-2d4805bfe23f/image.png" width ="3%"> Where to find me?
 
 
 ## <img src="https://media.giphy.com/media/8cY8LQMDLhQ4Ml9fLe/giphy.gif" width ="3%"> Where to find me?
